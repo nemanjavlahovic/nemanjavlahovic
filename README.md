@@ -11,17 +11,16 @@
 
 > Building developer tools and shipping apps — from Xcode Instruments profiling to SwiftUI design systems.
 
-## What I'm Building
+## Apps
+
+- **[Midori](https://apps.apple.com/us/app/midori-matcha-ratio/id6751516587)** — Minimalist matcha brewing companion. Solo design & engineering.
+- **[Dougie](https://github.com/nemanjavlahovic/dougie)** — An open-source macOS menu bar app that keeps your Mac awake with a coffee timer. Build from source; a signed download is coming.
+
+## Developer Tools
 
 - **[InstrumentsMCP](https://github.com/nemanjavlahovic/instruments-mcp-server)** — MCP server giving AI agents access to Xcode Instruments. Structured CPU, memory, energy, and SwiftUI profiling.
 - **[FloeKit](https://github.com/nemanjavlahovic/FloeKit)** — Elegant, modular UI building blocks for SwiftUI — design system, components, and utilities with built-in theming and accessibility.
 - **[SwiftHealth](https://github.com/nemanjavlahovic/swifthealth)** — Health scores for Swift projects. Code quality, git hygiene, and dependency analysis in one CLI.
-- **[FloeNet](https://github.com/nemanjavlahovic/FloeNet)** — Lightweight networking layer for Swift apps — minimal, modern, and testable.
-- **[Copy4LLM](https://github.com/nemanjavlahovic/copy4llm)** — Chrome extension that extracts web content into LLM-optimized markdown.
-
-## Shipped Apps
-
-- **[Midori](https://apps.apple.com/us/app/midori-matcha-ratio/id6751516587)** — Minimalist matcha brewing companion. Solo design & engineering.
 
 ## Contract Work
 
