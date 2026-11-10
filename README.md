@@ -5,6 +5,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Metal](https://img.shields.io/badge/-Metal-000000?style=flat-square&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -15,6 +16,10 @@
 
 - **[Midori](https://apps.apple.com/us/app/midori-matcha-ratio/id6751516587)** — Minimalist matcha brewing companion. Solo design & engineering.
 - **[Dougie](https://github.com/nemanjavlahovic/dougie)** — An open-source macOS menu bar app that keeps your Mac awake with a coffee timer. Build from source; a signed download is coming.
+
+## Experiments
+
+- **[Tessera](https://github.com/nemanjavlahovic/tessera)** — A Metal photo grid for iOS. Pinch out of 100,000 photos at 120 fps until they become one picture.
 
 ## Developer Tools
 
