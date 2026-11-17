@@ -1,6 +1,6 @@
 # Hey, I'm Nemanja
 
-**Barcelona** | Senior iOS & macOS Developer | 8+ years shipping native apps
+**Barcelona** | Freelance iOS & macOS Developer | 10+ years shipping native apps | **Open to contract work**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -29,7 +29,9 @@
 
 ## Contract Work
 
-Included Health, Car:Go (Belgrade's ride-hailing app, 50k+ MAU), Circlin, HapticLabs, and others. Full portfolio at **[nemanjavlahovic.com](https://nemanjavlahovic.com)**.
+Available for freelance and contract iOS work: new apps, features, fixes and UIKit-to-SwiftUI migrations. Remote from Barcelona (CET), working with teams across Europe and beyond. Email **nemanja@nemanjavlahovic.com** or see my studio, **[Sycamore Relay](https://sycamorerelay.com)**.
+
+Past work: Calendly, Included Health, Car:Go (Belgrade's ride-hailing app, 50k+ MAU), Circlin, HapticLabs, and others. Full portfolio at **[nemanjavlahovic.com](https://nemanjavlahovic.com)**.
 
 ## Connect
 
